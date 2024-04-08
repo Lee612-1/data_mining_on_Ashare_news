@@ -32,8 +32,6 @@ This project consists of two tasks, totaling four questions:
 
     │   ├── knowledge_graph.ipynb     
 
-    │   └── .ipynb_checkpoints
-
     ├── result             // report and excel in this file
 
     └── model                // trained model and information of training
