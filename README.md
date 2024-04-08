@@ -1,11 +1,12 @@
 # Introduction
-    This project consists of two tasks, totaling four questions:
-        Task 1 : Data Preprocessing and Analysis
-            Question 1: Data Preprocessing - Noise Removal
-            Question 2: Data Analysis - Text Knowledge Mining
-        Task 2 : Application of Knowledge Graph
-            Question 3: Constructing a Knowledge Graph 
-            Question 4 : Knowledge-Driven Financial Analysis
+
+This project consists of two tasks, totaling four questions:
++ Task 1 : Data Preprocessing and Analysis
+1. Data Preprocessing - Noise Removal
+2. Data Analysis - Text Knowledge Mining
++ Task 2 : Application of Knowledge Graph
+3. Constructing a Knowledge Graph 
+4. Knowledge-Driven Financial Analysis
 
 
 # Environment
@@ -25,13 +26,11 @@
 
     ├── requiremnet.txt    // Environment
 
-    ├── .idea             // Configuration file
-
     ├── code             
 
-    │   ├── Task1.ipynb     //code you need
+    │   ├── data_mining.ipynb    
 
-    │   ├── Task2.ipynb     //code you need
+    │   ├── knowledge_graph.ipynb     
 
     │   └── .ipynb_checkpoints
 
